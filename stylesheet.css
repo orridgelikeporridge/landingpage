@@ -1,0 +1,84 @@
+html
+
+.link-tab {
+      background: #FFFF9E;
+      border: 2px solid #FFFFFF;
+      border-radius: 5px;
+      padding: 5px 20px 15px 50px;
+      font-size: 50%;
+}
+
+    
+{
+                padding: 20px;
+                background-color: #2CE3D6;
+                width: auto;
+                margin: 50px;
+                position: relative;
+                font-family: "courier", sans-serif;
+                }
+
+.notice-success {
+  background: #FFDE9E;
+  border: 2px solid #FFFFFF;
+  border-radius: 5px;
+  color: #fff;
+  font-family: "courier", sans-serif;
+  padding: 15px 20px 15px 50px;
+}
+
+.instagram {
+     text-align: center;
+}
+
+.icon-home {
+                background-color: #FFDE9E;
+                width: 500px;
+                margin: 50px;
+                font-family: "courier", sans-serif;
+                font-size: 150%; 
+      padding: 15px 20px 15px 50px;
+
+}
+
+.icon-like {
+                background-color: #FFDE9E;
+                width: 500px;
+                margin: 50px;
+                font-family: "courier", sans-serif;
+                font-size: 150%; 
+      padding: 15px 20px 15px 50px;
+
+
+}
+
+.icon-search {
+                background-color: #FFDE9E;
+                width: 500px;
+                margin: 50px;
+                font-family: "courier", sans-serif;
+                font-size: 150%; 
+  padding: 15px 20px 15px 50px;
+
+}
+
+.icon-profile {
+                background-color: #FFDE9E;
+                width: 500px;
+                margin: 50px;
+                font-family: "courier", sans-serif;
+                font-size: 150%; 
+
+  padding: 15px 20px 15px 50px;
+
+}
+
+.box {
+    
+font-size: 175%;
+}
+.box2 {
+margin: 100px;
+font-size: 125%;
+}
+     
